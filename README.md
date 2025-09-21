@@ -269,9 +269,9 @@ src/main/java/com/civa/platform/
 
 ## 📞 Contacto
 
-**Desarrollador**: Aldo  
-**Email**: rbazan@civa.com.pe  
-**Repositorio**: https://github.com/CodAress/civa-backend
+**Desarrollador**: CodAress  
+**Email**: aldobaldeon20@gmail.com
+**Repositorio**: https://github.com/aldobal/civa-back
 
 ---
 
